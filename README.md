@@ -1,5 +1,5 @@
 # repo-prueba
 repositorio de prueba :)
 
-##descripción
+## descripción
 Esre es un repo de prueba
