@@ -1,3 +1,3 @@
-let nombre = "Mariana";
+let nombre = "Mariano ducati";
 console.log("hola" + " " + nombre)
 
